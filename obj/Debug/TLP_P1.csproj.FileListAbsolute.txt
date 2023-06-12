@@ -1,0 +1,116 @@
+c:\users\dr.stone\documents\visual studio 2015\Projects\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe.config
+c:\users\dr.stone\documents\visual studio 2015\Projects\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe
+c:\users\dr.stone\documents\visual studio 2015\Projects\TLP_P1\TLP_P1\bin\Debug\TLP_P1.pdb
+c:\users\dr.stone\documents\visual studio 2015\Projects\TLP_P1\TLP_P1\obj\Debug\TLP_P1.csprojResolveAssemblyReference.cache
+c:\users\dr.stone\documents\visual studio 2015\Projects\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Form1.resources
+c:\users\dr.stone\documents\visual studio 2015\Projects\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Properties.Resources.resources
+c:\users\dr.stone\documents\visual studio 2015\Projects\TLP_P1\TLP_P1\obj\Debug\TLP_P1.csproj.GenerateResource.Cache
+c:\users\dr.stone\documents\visual studio 2015\Projects\TLP_P1\TLP_P1\obj\Debug\TLP_P1.exe
+c:\users\dr.stone\documents\visual studio 2015\Projects\TLP_P1\TLP_P1\obj\Debug\TLP_P1.pdb
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe.config
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\obj\Debug\TLP_P1.exe
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\obj\Debug\TLP_P1.pdb
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\bin\Debug\TLP_P1.pdb
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Form1.resources
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Properties.Resources.resources
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\obj\Debug\TLP_P1.csproj.GenerateResource.Cache
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Dashboard.resources
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\bin\Debug\MaterialSkin.dll
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\bin\Debug\MetroFramework.dll
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\bin\Debug\MetroSuite.dll
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\bin\Debug\MaterialSkin.pdb
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\bin\Debug\Guna.UI2.dll
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Login.resources
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Processando.resources
+H:\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe.config
+H:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.exe
+H:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.pdb
+H:\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe
+H:\TLP_P1\TLP_P1\bin\Debug\TLP_P1.pdb
+H:\TLP_P1\TLP_P1\bin\Debug\MaterialSkin.pdb
+H:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.csprojResolveAssemblyReference.cache
+H:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Form1.resources
+H:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Dashboard.resources
+H:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Login.resources
+H:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Processando.resources
+H:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Properties.Resources.resources
+H:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.csproj.GenerateResource.Cache
+M:\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe.config
+M:\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe
+M:\TLP_P1\TLP_P1\bin\Debug\TLP_P1.pdb
+M:\TLP_P1\TLP_P1\bin\Debug\MaterialSkin.pdb
+M:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.csproj.AssemblyReference.cache
+M:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Escola.resources
+M:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Dashboard.resources
+M:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Login.resources
+M:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Processando.resources
+M:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Properties.Resources.resources
+M:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.csproj.GenerateResource.cache
+M:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.csproj.CoreCompileInputs.cache
+M:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.csproj.CopyComplete
+M:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.exe
+M:\TLP_P1\TLP_P1\obj\Debug\TLP_P1.pdb
+C:\Users\Dr.Stone\Documents\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe.config
+C:\Users\Dr.Stone\Documents\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe
+C:\Users\Dr.Stone\Documents\TLP_P1\TLP_P1\bin\Debug\TLP_P1.pdb
+C:\Users\Dr.Stone\Documents\TLP_P1\TLP_P1\bin\Debug\Guna.UI.dll
+C:\Users\Dr.Stone\Documents\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Dashboard.resources
+C:\Users\Dr.Stone\Documents\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Login.resources
+C:\Users\Dr.Stone\Documents\TLP_P1\TLP_P1\obj\Debug\TLP_P1.PagarPropina.resources
+C:\Users\Dr.Stone\Documents\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Processando.resources
+C:\Users\Dr.Stone\Documents\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Properties.Resources.resources
+C:\Users\Dr.Stone\Documents\TLP_P1\TLP_P1\obj\Debug\TLP_P1.csproj.GenerateResource.cache
+C:\Users\Dr.Stone\Documents\TLP_P1\TLP_P1\obj\Debug\TLP_P1.exe
+C:\Users\Dr.Stone\Documents\TLP_P1\TLP_P1\obj\Debug\TLP_P1.pdb
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe.config
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.exe
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.pdb
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\TLP_P1\bin\Debug\TLP_P1.pdb
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\TLP_P1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\TLP_P1\bin\Debug\Guna.UI2.dll
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.csprojResolveAssemblyReference.cache
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Login.resources
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.PagarPropina.resources
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Properties.Resources.resources
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.csproj.GenerateResource.Cache
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Inicio.resources
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Dashboard.resources
+C:\Users\Milvanio Samuel\Desktop\TLP_P1\TLP_P1\TLP_P1\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe.config
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.exe
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.pdb
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\bin\Debug\TLP_P1.pdb
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\bin\Debug\Guna.UI2.dll
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Inicio.resources
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Login.resources
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.PagarPropina.resources
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Dashboard.resources
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Properties.Resources.resources
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.csproj.GenerateResource.Cache
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe.manifest
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\bin\Debug\TLP_P1.application
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.csprojResolveAssemblyReference.cache
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.exe.manifest
+C:\Users\Milvanio Samuel\Desktop\--\TLP_P1\TLP_P1\TLP_P1\obj\Debug\TLP_P1.application
+C:\Users\Milvanio Samuel\Pictures\----\INSCRIÇÃO E PAGAMENTO\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe.config
+C:\Users\Milvanio Samuel\Pictures\----\INSCRIÇÃO E PAGAMENTO\TLP_P1\TLP_P1\obj\Debug\TLP_P1.exe
+C:\Users\Milvanio Samuel\Pictures\----\INSCRIÇÃO E PAGAMENTO\TLP_P1\TLP_P1\obj\Debug\TLP_P1.pdb
+C:\Users\Milvanio Samuel\Pictures\----\INSCRIÇÃO E PAGAMENTO\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe.manifest
+C:\Users\Milvanio Samuel\Pictures\----\INSCRIÇÃO E PAGAMENTO\TLP_P1\TLP_P1\bin\Debug\TLP_P1.application
+C:\Users\Milvanio Samuel\Pictures\----\INSCRIÇÃO E PAGAMENTO\TLP_P1\TLP_P1\bin\Debug\TLP_P1.exe
+C:\Users\Milvanio Samuel\Pictures\----\INSCRIÇÃO E PAGAMENTO\TLP_P1\TLP_P1\bin\Debug\TLP_P1.pdb
+C:\Users\Milvanio Samuel\Pictures\----\INSCRIÇÃO E PAGAMENTO\TLP_P1\TLP_P1\obj\Debug\TLP_P1.csprojResolveAssemblyReference.cache
+C:\Users\Milvanio Samuel\Pictures\----\INSCRIÇÃO E PAGAMENTO\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Inicio.resources
+C:\Users\Milvanio Samuel\Pictures\----\INSCRIÇÃO E PAGAMENTO\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Login.resources
+C:\Users\Milvanio Samuel\Pictures\----\INSCRIÇÃO E PAGAMENTO\TLP_P1\TLP_P1\obj\Debug\TLP_P1.PagarPropina.resources
+C:\Users\Milvanio Samuel\Pictures\----\INSCRIÇÃO E PAGAMENTO\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Dashboard.resources
+C:\Users\Milvanio Samuel\Pictures\----\INSCRIÇÃO E PAGAMENTO\TLP_P1\TLP_P1\obj\Debug\TLP_P1.Properties.Resources.resources
+C:\Users\Milvanio Samuel\Pictures\----\INSCRIÇÃO E PAGAMENTO\TLP_P1\TLP_P1\obj\Debug\TLP_P1.csproj.GenerateResource.Cache
+C:\Users\Milvanio Samuel\Pictures\----\INSCRIÇÃO E PAGAMENTO\TLP_P1\TLP_P1\obj\Debug\TLP_P1.exe.manifest
+C:\Users\Milvanio Samuel\Pictures\----\INSCRIÇÃO E PAGAMENTO\TLP_P1\TLP_P1\obj\Debug\TLP_P1.application
